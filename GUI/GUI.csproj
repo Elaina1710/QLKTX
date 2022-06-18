@@ -200,10 +200,6 @@
       <Project>{f2759d07-cfea-4db8-bbeb-a95f1e9a4389}</Project>
       <Name>BUS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DTO\DTO.csproj">
-      <Project>{f4391905-b20d-4fd3-b582-e3c22c961c74}</Project>
-      <Name>DTO</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Skin_BG_202.png" />
