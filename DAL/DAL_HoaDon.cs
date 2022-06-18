@@ -30,6 +30,7 @@ namespace DAL
             String query = "select * from HoaDon";
             return DBProvider.Instance.ExecuteQuery(query);
         }
+        //DDDDDDDDD
     }
 
 }
